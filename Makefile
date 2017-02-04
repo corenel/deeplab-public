@@ -173,7 +173,7 @@ LIBRARIES += glog gflags protobuf leveldb snappy \
 	opencv_core opencv_highgui opencv_imgproc \
 	matio
 PYTHON_LIBRARIES := boost_python python2.7
-WARNINGS := -Wall -Wno-sign-compare
+WARNINGS := -Wall -Wno-sign-compare -Wno-deprecated-gpu-targets
 
 ##############################
 # Set build directories
