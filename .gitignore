@@ -1,6 +1,9 @@
 matlab/my_script/*.txt
 matlab/my_script/*al_d*
-exper/
+exper/voc12/feature*
+exper/voc12/res
+exper/voc12/log
+exper/voc12/model
 
 ## General
 *.pdf
