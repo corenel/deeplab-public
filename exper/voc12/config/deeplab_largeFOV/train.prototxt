@@ -14,7 +14,7 @@
 # (16 * k - 15); (8 * k - 7); (4 * k - 3); (2 * k - 1); (k).
 # For k = 11, these translate to
 #           161;          81;          41;          21;  11
-# 
+#
 
 name: "${NET_ID}"
 
@@ -513,5 +513,5 @@ layers {
   top: "accuracy"
   seg_accuracy_param {
     ignore_label: 255
-  } 
+  }
 }
