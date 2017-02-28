@@ -4,6 +4,7 @@ exper/voc12/feature*
 exper/voc12/res
 exper/voc12/log
 exper/voc12/model
+exper/voc12/list
 
 ## General
 *.pdf
